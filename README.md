@@ -5,4 +5,6 @@ Ici du blabla qui décrit le projet
 blablabla
 
 ## List des Commits 
-BT01 - Intro
+* BT01 - Intro
+* BT02 - Game Design Document (GDD)
+*
