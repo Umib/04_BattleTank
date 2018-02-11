@@ -12,3 +12,4 @@ blablabla
 * BT05 - Creating Tank
 * BT06 - Setting Up Camera
 * BT07 - Creating an UI 
+* BT08 - First Packaging
