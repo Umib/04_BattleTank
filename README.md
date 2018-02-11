@@ -10,3 +10,4 @@ blablabla
 * BT03 - Setting Up a Github repository
 * BT04 - Making Landscape
 * BT05 - Creating Tank
+* BT06 - Setting Up Camera
