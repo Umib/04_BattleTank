@@ -8,3 +8,4 @@ blablabla
 * BT01 - Intro
 * BT02 - Game Design Document (GDD)
 * BT03 - Setting Up a Github repository
+* BT04 - Making Landscape
