@@ -13,3 +13,4 @@ blablabla
 * BT06 - Setting Up Camera
 * BT07 - Creating an UI 
 * BT08 - First Packaging
+* BT09 - Begin Delegate Objects in C++
