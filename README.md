@@ -15,3 +15,4 @@ blablabla
 * BT08 - First Packaging
 * BT09 - Begin Delegate Objects in C++
 * BT10 - AIController and Starting to Aim
+* BT11 - Calculating crosshair position to Aim
