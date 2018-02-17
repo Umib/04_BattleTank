@@ -17,3 +17,4 @@ blablabla
 * BT10 - AIController and Starting to Aim
 * BT11 - Calculating crosshair position to Aim
 * BT12 - Getting Location Aimed
+* BT13 - Ready rotator for barrel movement
