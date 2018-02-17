@@ -18,3 +18,4 @@ blablabla
 * BT11 - Calculating crosshair position to Aim
 * BT12 - Getting Location Aimed
 * BT13 - Ready rotator for barrel movement
+* BT14 - Setup Barrel Class
